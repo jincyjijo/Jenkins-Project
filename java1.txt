@@ -12,3 +12,5 @@ class Main {
       firstTerm = secondTerm;
       secondTerm = nextTerm;
     }
+    
+    12
